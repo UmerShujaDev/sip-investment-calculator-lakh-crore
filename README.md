@@ -14,7 +14,8 @@ A mobile-first investment calculator built using HTML, CSS, and JavaScript.
 https://UmerShujaDev.github.io/sip-investment-calculator-lakh-crore/
 
 ## 📷 Preview
-(Add screenshot here)
+<img width="1902" height="945" alt="image" src="https://github.com/user-attachments/assets/1394c669-f764-4c90-9610-65f5b5a0db94" />
+
 
 ## 🛠 Tech Stack
 - HTML5
