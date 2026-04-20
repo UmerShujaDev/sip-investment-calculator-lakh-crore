@@ -23,7 +23,17 @@ https://UmerShujaDev.github.io/sip-investment-calculator-lakh-crore/
 - Chart.js
 
 ## 📈 SEO Keywords
-investment calculator, sip calculator, compound interest calculator, mutual fund calculator, roi calculator
+investment-calculator
+sip-calculator
+compound-interest
+finance-tool
+javascript-project
+html-css-js
+github-pages
+mutual-fund-calculator
+roi-calculator
+personal-finance
+wealth-calculator
 
 ## 📄 License
 MIT
