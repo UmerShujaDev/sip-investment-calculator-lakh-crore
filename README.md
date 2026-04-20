@@ -1,2 +1,29 @@
-# sip-investment-calculator-lakh-crore
-Free mobile-first investment calculator built with HTML, CSS, and JavaScript. Calculates SIP returns, compound interest, yearly growth, and displays results in Lakh &amp; Crore format. Deployable on GitHub Pages.
+# 📊 Investment Calculator (SIP & Compound Growth)
+
+A mobile-first investment calculator built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+- SIP & compound interest calculation
+- Year-by-year growth breakdown
+- Lakh / Crore / K formatting
+- Responsive mobile-first UI
+- Interactive chart (Chart.js)
+- GitHub Pages ready
+
+## 🌐 Live Demo
+https://yourusername.github.io/repo-name/
+
+## 📷 Preview
+(Add screenshot here)
+
+## 🛠 Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Chart.js
+
+## 📈 SEO Keywords
+investment calculator, sip calculator, compound interest calculator, mutual fund calculator, roi calculator
+
+## 📄 License
+MIT
